@@ -4,3 +4,5 @@
 *Nothing special!*
 
 "HelloWorld" is a traditional and the simpliest project to get started with some tool or programming language. In this project "HelloWorld" just demonstrates GitHub version control system and how to do basic operations in it.
+
+To learn more about GitHub please follow this [link] (https://guides.github.com/activities/hello-world/)
